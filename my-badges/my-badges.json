@@ -1,0 +1,135 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/noredistribution/studios-demo/commit/ae597494a2d99b3e91b88283c3bfbf5bdc672442\"><strong>a</strong>e597494a2d99b3e91b88283c3bfbf5bdc672442</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/noredistribution/openmgmt/commit/ab620d7473dc02cadaa06f2d3c0d17c95f55cb8f\"><strong>ab</strong>620d7473dc02cadaa06f2d3c0d17c95f55cb8f</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/55a052fd9172f3610c96ed720f5256a8d93469c7\">55a052f</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/brokenpackets/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/290363f6a9aa32156acff321dec7d4b0464614ca\">290363f</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12\">f8007d9</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/55a052fd9172f3610c96ed720f5256a8d93469c7\">55a052f</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/0edf00365a18ebd869df18cb204f2531b5557dc0\">0edf003</a>\n- <a href=\"https://github.com/noredistribution/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 171 times)\n2. update (used 137 times)\n3. the (used 107 times)\n4. to (used 103 times)\n5. merge (used 94 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/55364449a02c1332caaf448e027eeee08aa4bbe5\">5536444</a>: Fix: update requirements.txt\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/56764043d5abb4affe8ff86aad92cb44fafcd35b\">5676404</a>: Fix: update requirements.txt",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/fce0335590ca891422487124be62ef6b0c21ce94\">fce0335</a>: Fix: add timeout to get_configlets_and_mappers()\n- <a href=\"https://github.com/noredistribution/cvprac/commit/12204f9ddcb17eba6f4c638badadcdf5e31cca67\">12204f9</a>: Fix: updating the enrollment endpoint for CVaaS\n- <a href=\"https://github.com/noredistribution/cvprac/commit/36b70d7daa6c8866c7f6cffb194245bf571f8496\">36b70d7</a>: Fix: missing url encoding for get_user",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/e94bf134177207a8aadaaa31316db43a397e6d02\">e94bf13</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/openmgmt/issues/105\">#105</a>: add examples for system/cpus path\n- <a href=\"https://github.com/aristanetworks/avd/issues/1544\">#1544</a>: Optimize eos_config_deploy_cvp\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/448\">#448</a>: Have the ability to only get the list of devices using cv_facts_v3\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/537\">#537</a>: Feat(cv_accounts_v3): add support for service accounts and service account tokens\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/657\">#657</a>: Bug(cv_device_v3): device decommissioning fails if a device is not streaming and not provisioned",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/openmgmt/issues/81\">#81</a>: add more cli origin examples\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/370\">#370</a>: Feature Request - Add multi threading support for get and update calls towards CV",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/aristanetworks/eoscentral/issues/1\">#1</a>: fixed a bug where grouped alerts were not working due to list index out of range\n- <a href=\"https://github.com/aristanetworks/avd/issues/257\">#257</a>: Add CVaaS case to the TerminAttr template\n- <a href=\"https://github.com/aristanetworks/avd/issues/302\">#302</a>: Add management api gnmi template\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/370\">#370</a>: Feature Request - Add multi threading support for get and update calls towards CV",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/aristanetworks/avd/pull/432\">#432</a>: eos_cli_config_gen: adding gnmi template and fixing TA config for CVaaS",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/pull/553\">#553</a>: Feat(cv_device_v3): add configuration validation support",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/aoc2023/commit/bd6713bf3a476503b9850e2e3a2c7d6cb4cf3c94\">bd6713b</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/34ae7cd55b90cd6b99fbee5ef37ccd233d7951ec\">34ae7cd</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/9549e9ea05dd7a957916cbe1774173fde583b02c\">9549e9e</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/6d87506b6d08ae147095e596aad59166c456cc9e\">6d87506</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/c6110f3bd7d37f2840a099d31a5f8ee48846a5a4\">c6110f3</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/f66c8a374b37f0334e59b4c945d84c8697488c79\">f66c8a3</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/avd/commit/5070cf119481d15aea7a485764863a9da2cd6b8d\">5070cf1</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/413b8220df2d9553330b3fd4913615180b275fdf\">413b822</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/studios-demo/commit/16385d919a0d6c120c349eb9fecfecf235556546\">16385d9</a>\n- <a href=\"https://github.com/noredistribution/studios-demo/commit/71c33bc1d07db02d0e0ad25a06d20750cc97ac4e\">71c33bc</a>\n- <a href=\"https://github.com/noredistribution/studios-demo/commit/33dde35efe40c8295c886dd39d9f1ac7feb5b562\">33dde35</a>\n- <a href=\"https://github.com/noredistribution/studios-demo/commit/1e163dd3ae5e010795970715d5f1c1df462a8fe1\">1e163dd</a>\n- <a href=\"https://github.com/noredistribution/studios-demo/commit/c6681e4722af44c3d6422e390e3f13b81aaafb51\">c6681e4</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12\">f8007d9</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/0b7813fe6c7292d9e25a2db27d383af21e4891b9\">0b7813f</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]

@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/noredistribution/studios-demo/commit/ae597494a2d99b3e91b88283c3bfbf5bdc672442\"><strong>a</strong>e597494a2d99b3e91b88283c3bfbf5bdc672442</a>",
+    "body": "- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/ac0fe6be3115f27c03e77ff4fc05911e56565328\"><strong>a</strong>c0fe6be3115f27c03e77ff4fc05911e56565328</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/brokenpackets/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/290363f6a9aa32156acff321dec7d4b0464614ca\">290363f</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12\">f8007d9</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/55a052fd9172f3610c96ed720f5256a8d93469c7\">55a052f</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/0edf00365a18ebd869df18cb204f2531b5557dc0\">0edf003</a>\n- <a href=\"https://github.com/noredistribution/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/0edf00365a18ebd869df18cb204f2531b5557dc0\">0edf003</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/290363f6a9aa32156acff321dec7d4b0464614ca\">290363f</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12\">f8007d9</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/55a052fd9172f3610c96ed720f5256a8d93469c7\">55a052f</a>\n- <a href=\"https://github.com/noredistribution/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>\n- <a href=\"https://github.com/brokenpackets/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/55364449a02c1332caaf448e027eeee08aa4bbe5\">5536444</a>: Fix: update requirements.txt\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/56764043d5abb4affe8ff86aad92cb44fafcd35b\">5676404</a>: Fix: update requirements.txt",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/openmgmt/commit/8a9b1c3668f19367dbae00884c4ec1cfac761503\">8a9b1c3</a>: fix linting\n- <a href=\"https://github.com/noredistribution/openmgmt/commit/45343a17e5e07313213cf497f6a5a152b6a9c75c\">45343a1</a>: fix linting",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -66,22 +66,8 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/e94bf134177207a8aadaaa31316db43a397e6d02\">e94bf13</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/openmgmt/commit/40a9889b1646c8c8be16e3653ac88b6fef991958\">40a9889</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/openmgmt/issues/105\">#105</a>: add examples for system/cpus path\n- <a href=\"https://github.com/aristanetworks/avd/issues/1544\">#1544</a>: Optimize eos_config_deploy_cvp\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/448\">#448</a>: Have the ability to only get the list of devices using cv_facts_v3\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/537\">#537</a>: Feat(cv_accounts_v3): add support for service accounts and service account tokens\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/657\">#657</a>: Bug(cv_device_v3): device decommissioning fails if a device is not streaming and not provisioned",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/openmgmt/issues/81\">#81</a>: add more cli origin examples\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/370\">#370</a>: Feature Request - Add multi threading support for get and update calls towards CV",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {
     "id": "polite-coder",

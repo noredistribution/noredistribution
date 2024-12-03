@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/55364449a02c1332caaf448e027eeee08aa4bbe5">5536444</a>: Fix: update requirements.txt
-- <a href="https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/56764043d5abb4affe8ff86aad92cb44fafcd35b">5676404</a>: Fix: update requirements.txt
+- <a href="https://github.com/noredistribution/openmgmt/commit/8a9b1c3668f19367dbae00884c4ec1cfac761503">8a9b1c3</a>: fix linting
+- <a href="https://github.com/noredistribution/openmgmt/commit/45343a17e5e07313213cf497f6a5a152b6a9c75c">45343a1</a>: fix linting
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

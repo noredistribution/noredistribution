@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 191 times)\n2. update (used 145 times)\n3. merge (used 102 times)\n4. adding (used 94 times)\n5. change-id: (used 92 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 191 times)\n2. update (used 148 times)\n3. merge (used 103 times)\n4. adding (used 94 times)\n5. change-id: (used 92 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/aoc2023/commit/bd6713bf3a476503b9850e2e3a2c7d6cb4cf3c94\">bd6713b</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/34ae7cd55b90cd6b99fbee5ef37ccd233d7951ec\">34ae7cd</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/9549e9ea05dd7a957916cbe1774173fde583b02c\">9549e9e</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/6d87506b6d08ae147095e596aad59166c456cc9e\">6d87506</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/c6110f3bd7d37f2840a099d31a5f8ee48846a5a4\">c6110f3</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/f66c8a374b37f0334e59b4c945d84c8697488c79\">f66c8a3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/4f1be2d0e049f498e18c63dcc3372dcef263e9c2\">4f1be2d</a>\n- <a href=\"https://github.com/noredistribution/aoc2023/commit/bd6713bf3a476503b9850e2e3a2c7d6cb4cf3c94\">bd6713b</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/34ae7cd55b90cd6b99fbee5ef37ccd233d7951ec\">34ae7cd</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/9549e9ea05dd7a957916cbe1774173fde583b02c\">9549e9e</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/6d87506b6d08ae147095e596aad59166c456cc9e\">6d87506</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/c6110f3bd7d37f2840a099d31a5f8ee48846a5a4\">c6110f3</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {

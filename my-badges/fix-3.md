@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/noredistribution/cvprac/commit/fce0335590ca891422487124be62ef6b0c21ce94">fce0335</a>: Fix: add timeout to get_configlets_and_mappers()
-- <a href="https://github.com/noredistribution/cvprac/commit/12204f9ddcb17eba6f4c638badadcdf5e31cca67">12204f9</a>: Fix: updating the enrollment endpoint for CVaaS
-- <a href="https://github.com/noredistribution/cvprac/commit/36b70d7daa6c8866c7f6cffb194245bf571f8496">36b70d7</a>: Fix: missing url encoding for get_user
+- <a href="https://github.com/noredistribution/clabs/commit/46411e45a28761b4e44a94fb98505c5fc4257327">46411e4</a>: fix hostname on sw1 and run addAliases on startup
+- <a href="https://github.com/noredistribution/clabs/commit/d2783fae6871d60a1a0b8e85410a3e824d5c948a">d2783fa</a>: fix hostname on sw1 and run addAliases on startup
+- <a href="https://github.com/noredistribution/clabs/commit/c054a8b25fc95296ab4a9bcc97b304db17610625">c054a8b</a>: fixing the ws folder name
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

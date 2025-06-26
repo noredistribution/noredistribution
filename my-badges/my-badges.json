@@ -145,5 +145,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/avd/commit/53db4236ca199ec13b0a5ff327e05adc40fbde3d\">53db423</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
   }
 ]

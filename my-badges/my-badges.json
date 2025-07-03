@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 193 times)\n2. update (used 153 times)\n3. merge (used 106 times)\n4. adding (used 95 times)\n5. change-id: (used 92 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 197 times)\n2. update (used 154 times)\n3. merge (used 106 times)\n4. adding (used 95 times)\n5. change-id: (used 92 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/openmgmt/commit/69247bb5b8e9d64e76900297a1431aeefb1edf57\">69247bb</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/e7d186c13fcb7529b97ba4bfdd84052f418cf395\">e7d186c</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/3a62f5010370dcdd2f72e753ebb19e5ee6dd344e\">3a62f50</a>\n- <a href=\"https://github.com/aristanetworks/aql-examples/commit/215e6746bbb81827f7f5aec2f5c65faf43bd583c\">215e674</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/df92b3f24e06289234cb315bcbee8186d5d16fda\">df92b3f</a>\n- <a href=\"https://github.com/noredistribution/openmgmt/commit/8a9b1c3668f19367dbae00884c4ec1cfac761503\">8a9b1c3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/clabs/commit/990cbba548a0353366c2def55752a6eeb39bdf62\">990cbba</a>\n- <a href=\"https://github.com/noredistribution/openmgmt/commit/69247bb5b8e9d64e76900297a1431aeefb1edf57\">69247bb</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/e7d186c13fcb7529b97ba4bfdd84052f418cf395\">e7d186c</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/3a62f5010370dcdd2f72e753ebb19e5ee6dd344e\">3a62f50</a>\n- <a href=\"https://github.com/aristanetworks/aql-examples/commit/215e6746bbb81827f7f5aec2f5c65faf43bd583c\">215e674</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/df92b3f24e06289234cb315bcbee8186d5d16fda\">df92b3f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {

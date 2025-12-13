@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/noredistribution/aclabs/commit/8b211c3cebfbc5ee3bbdfe880a5a7c325fea84ea">8b211c3</a>
 - <a href="https://github.com/noredistribution/cvprac/commit/0edf00365a18ebd869df18cb204f2531b5557dc0">0edf003</a>
 - <a href="https://github.com/noredistribution/ansible-cvp/commit/290363f6a9aa32156acff321dec7d4b0464614ca">290363f</a>
 - <a href="https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12">f8007d9</a>

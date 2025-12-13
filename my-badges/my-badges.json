@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/0edf00365a18ebd869df18cb204f2531b5557dc0\">0edf003</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/290363f6a9aa32156acff321dec7d4b0464614ca\">290363f</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12\">f8007d9</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/55a052fd9172f3610c96ed720f5256a8d93469c7\">55a052f</a>\n- <a href=\"https://github.com/noredistribution/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>\n- <a href=\"https://github.com/brokenpackets/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/aclabs/commit/8b211c3cebfbc5ee3bbdfe880a5a7c325fea84ea\">8b211c3</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/0edf00365a18ebd869df18cb204f2531b5557dc0\">0edf003</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/290363f6a9aa32156acff321dec7d4b0464614ca\">290363f</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/f8007d9e8de544671c957a6d1af58a96580d2d12\">f8007d9</a>\n- <a href=\"https://github.com/noredistribution/ansible-cvp/commit/55a052fd9172f3610c96ed720f5256a8d93469c7\">55a052f</a>\n- <a href=\"https://github.com/noredistribution/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>\n- <a href=\"https://github.com/brokenpackets/CVP_Provisioning/commit/7a95175a9265c775074b8ee51b5d25c527920f6d\">7a95175</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 199 times)\n2. update (used 156 times)\n3. merge (used 112 times)\n4. adding (used 96 times)\n5. change-id: (used 92 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 204 times)\n2. update (used 169 times)\n3. merge (used 112 times)\n4. adding (used 96 times)\n5. change-id: (used 92 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

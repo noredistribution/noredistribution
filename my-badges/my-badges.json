@@ -173,5 +173,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/3a9940fb6755907b9a0c763e762274f6d0cc9905\">3a9940f</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/c9259d2cbf1be595b5ba160a7ea2b7112e74b8c0\">c9259d2</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/4f14121297ecae25e203f0056e4d653c0e57ee6d\">4f14121</a>\n- <a href=\"https://github.com/noredistribution/avd/commit/7892927e5085e4c2ce61d8cdcecec22cbf4d8afa\">7892927</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]

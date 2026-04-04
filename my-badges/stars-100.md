@@ -9,8 +9,8 @@ Repos:
 * <a href="https://github.com/arista-netdevops-community/eos-scripts">arista-netdevops-community/eos-scripts: ★11</a>
 * <a href="https://github.com/noredistribution/CVP-Scripts">noredistribution/CVP-Scripts: ★9</a>
 * <a href="https://github.com/noredistribution/Opensource-Telemetry">noredistribution/Opensource-Telemetry: ★4</a>
+* <a href="https://github.com/noredistribution/mcp-cvp-fun">noredistribution/mcp-cvp-fun: ★4</a>
 * <a href="https://github.com/aristanetworks/aql-examples">aristanetworks/aql-examples: ★3</a>
-* <a href="https://github.com/noredistribution/mcp-cvp-fun">noredistribution/mcp-cvp-fun: ★3</a>
 * <a href="https://github.com/brokenpackets/CVP_Provisioning">brokenpackets/CVP_Provisioning: ★2</a>
 * <a href="https://github.com/noredistribution/arista-clab-telemetry-lab">noredistribution/arista-clab-telemetry-lab: ★2</a>
 * <a href="https://github.com/noredistribution/Arista">noredistribution/Arista: ★1</a>

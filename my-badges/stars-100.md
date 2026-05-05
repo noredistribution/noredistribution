@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/arista-netdevops-community/CloudVisionPortal-Examples">arista-netdevops-community/CloudVisionPortal-Examples: ★38</a>
+* <a href="https://github.com/arista-netdevops-community/CloudVisionPortal-Examples">arista-netdevops-community/CloudVisionPortal-Examples: ★39</a>
 * <a href="https://github.com/arista-netdevops-community/arista_eos_streaming_telemetry_with_gnmi_and_telegraf">arista-netdevops-community/arista_eos_streaming_telemetry_with_gnmi_and_telegraf: ★27</a>
 * <a href="https://github.com/arista-netdevops-community/eos-scripts">arista-netdevops-community/eos-scripts: ★11</a>
 * <a href="https://github.com/noredistribution/CVP-Scripts">noredistribution/CVP-Scripts: ★9</a>

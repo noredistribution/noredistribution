@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/ac0fe6be3115f27c03e77ff4fc05911e56565328\"><strong>a</strong>c0fe6be3115f27c03e77ff4fc05911e56565328</a>",
+    "body": "- <a href=\"https://github.com/noredistribution/Opensource-Telemetry/commit/a82b9fa7ddbe65c42cb9d9bb47cab112b63fdfe0\"><strong>a</strong>82b9fa7ddbe65c42cb9d9bb47cab112b63fdfe0</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 229 times)\n2. update (used 197 times)\n3. merge (used 140 times)\n4. examples: (used 115 times)\n5. pull (used 110 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 222 times)\n2. update (used 177 times)\n3. merge (used 133 times)\n4. examples: (used 115 times)\n5. pull (used 110 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,15 +129,8 @@
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/6545125aa8fc6e01c56d53a6b921f8c3747def76\">6545125</a>\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/0d2d14358fe52f445a754ca9d2732e2c61e25915\">0d2d143</a>\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/c3785447992ce5dbca549b0fb2df956f5316d114\">c378544</a>\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/dde2c912da2b9a3679ef79d97d3f0fa5d695e51d\">dde2c91</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/6545125aa8fc6e01c56d53a6b921f8c3747def76\">6545125</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/b20737df7588656f8ac5e87cb70ef728029d66d9\">b20737d</a>\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/8bdeb34805032d650b249249c74aa74a0ecffd89\">8bdeb34</a>\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/6fe6491a68b660e32841b979a42e55645cd5d622\">6fe6491</a>\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/47eaad04b6f091ba1be4ad05ec49739d06268521\">47eaad0</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
     "id": "public-keys-1",
@@ -168,24 +161,10 @@
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/CVP-Scripts/commit/3a9940fb6755907b9a0c763e762274f6d0cc9905\">3a9940f</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/noredistribution/cvprac/commit/c9259d2cbf1be595b5ba160a7ea2b7112e74b8c0\">c9259d2</a>\n- <a href=\"https://github.com/noredistribution/cvprac/commit/4f14121297ecae25e203f0056e4d653c0e57ee6d\">4f14121</a>\n- <a href=\"https://github.com/noredistribution/avd/commit/7892927e5085e4c2ce61d8cdcecec22cbf4d8afa\">7892927</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples\">arista-netdevops-community/CloudVisionPortal-Examples: ★39</a>\n* <a href=\"https://github.com/arista-netdevops-community/arista_eos_streaming_telemetry_with_gnmi_and_telegraf\">arista-netdevops-community/arista_eos_streaming_telemetry_with_gnmi_and_telegraf: ★27</a>\n* <a href=\"https://github.com/arista-netdevops-community/eos-scripts\">arista-netdevops-community/eos-scripts: ★11</a>\n* <a href=\"https://github.com/noredistribution/CVP-Scripts\">noredistribution/CVP-Scripts: ★9</a>\n* <a href=\"https://github.com/noredistribution/Opensource-Telemetry\">noredistribution/Opensource-Telemetry: ★4</a>\n* <a href=\"https://github.com/noredistribution/mcp-cvp-fun\">noredistribution/mcp-cvp-fun: ★4</a>\n* <a href=\"https://github.com/aristanetworks/aql-examples\">aristanetworks/aql-examples: ★3</a>\n* <a href=\"https://github.com/brokenpackets/CVP_Provisioning\">brokenpackets/CVP_Provisioning: ★2</a>\n* <a href=\"https://github.com/noredistribution/arista-clab-telemetry-lab\">noredistribution/arista-clab-telemetry-lab: ★2</a>\n* <a href=\"https://github.com/noredistribution/Arista\">noredistribution/Arista: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
   }
 ]

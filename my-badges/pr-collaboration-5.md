@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/aristanetworks/avd/pull/432">#432</a>: eos_cli_config_gen: adding gnmi template and fixing TA config for CVaaS
+- <a href="https://github.com/aristanetworks/ansible-cvp/pull/412">#412</a>: Fix(cv_device_v3): Improve error message when no devices are match Issue #1293 on ansible-avd
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

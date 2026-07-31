@@ -24,7 +24,7 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/aristanetworks/avd/pull/432\">#432</a>: eos_cli_config_gen: adding gnmi template and fixing TA config for CVaaS",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/pull/412\">#412</a>: Fix(cv_device_v3): Improve error message when no devices are match Issue #1293 on ansible-avd",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
